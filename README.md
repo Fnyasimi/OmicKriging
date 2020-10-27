@@ -21,9 +21,9 @@ install_github("hakyimlab/omickriging")
 ```
 
 ## Tutorial
+Find tutorial [here](docs/Tutorial-OmicKriging.pdf).
 
-Find tutorial [here](docs/Tutorial-OmicKriging.pdf)
-
+Ensure the setup [here](docs/Setup.md) is followed.
 
 ### Authors and Contributors: ###
   * Hae Kyung Im
